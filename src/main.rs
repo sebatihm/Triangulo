@@ -18,7 +18,7 @@ fn main() {
         }
 
     }else{
-        println!("No es un triangulo we");
+        println!("No es un triangulo");
     }
 
 
